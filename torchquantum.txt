@@ -1,0 +1,5 @@
+numpy==1.24.3
+qiskit==0.40.0
+qiskit-aer==0.11.2
+torch==2.1.2+cu121
+torchquantum>=0.1
