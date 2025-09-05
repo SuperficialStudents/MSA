@@ -6,10 +6,17 @@ The algorithm is implemented on both CPU and GPU, where the CPU version is based
 ## File
 File `Hamiltonian` holds the Pauli string of the Hamiltonian;
 
-File `MSA` contains the required core code, where `hamiltonian.py` is used to calculate the Hamiltonian; `tqm_fix.py` is the code from torchquantum.
+File `MSA` contains the required core code, where
+    `hamiltonian.py` is used to calculate the Hamiltonian; 
+    `tqm_fix.py` is the code from torchquantum;
+    `VQE_v4.py` is only used on the CPU.
 
 ## Installtion
-File `quantum.txt` & `torchquantum.txt` are the environment configurations required to run on the CPU and GPU, respectively.
+Files `quantum.txt` & `torchquantum.txt` are the environment configurations required to run on the CPU and GPU, respectively.
+
+## Example
+Files `msa_cpu.ipynb` & `msa_gpu.ipynb` can be utilized directly to execute the corresponding examples.
+
 
 ## Article Link
 - [Read the full article on arXiv](https://arxiv.org/abs/2506.01559)
