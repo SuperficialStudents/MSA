@@ -7,8 +7,8 @@ The algorithm is implemented on both CPU and GPU, where the CPU version is based
 
 
 
-
-
+## Article Link
+- [Read the full article on arXiv](https://arxiv.org/abs/2506.01559)
 
 ## Citation
 ```
