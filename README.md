@@ -7,7 +7,7 @@ The algorithm is implemented on both CPU and GPU, where the CPU version is based
 File `Hamiltonian` holds the Pauli string of the Hamiltonian;
 
 File `MSA` contains the required core code, where \
-    `hamiltonian.py` is used to calculate the Hamiltonian; \ 
+    `hamiltonian.py` is used to calculate the Hamiltonian; \
     `tqm_fix.py` is the code from torchquantum; \
     `VQE_v4.py` is only used on the CPU.
 
